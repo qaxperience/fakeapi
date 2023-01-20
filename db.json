@@ -1,0 +1,44 @@
+{
+    "starwars": [
+        {
+            "id": 1,
+            "name": "Yoda",
+            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/yoda.png"
+        },
+        {
+            "id": 2,
+            "name": "Luke",
+            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/luke.png"
+        },
+        {
+            "id": 3,
+            "name": "Leia",
+            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/leia.png"
+        },
+        {
+            "id": 4,
+            "name": "Darth Vader",
+            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/vader.png"
+        },
+        {
+            "id": 5,
+            "name": "Han Solo",
+            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/hansolo.png"
+        },
+        {
+            "id": 6,
+            "name": "R2D2",
+            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/r2d2.png"
+        },
+        {
+            "id": 7,
+            "name": "C3pO",
+            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/c3po.png"
+        },
+        {
+            "id": 8,
+            "name": "Chewbacca",
+            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/chewbacca.png"
+        }
+    ]
+}
