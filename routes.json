@@ -1,4 +1,5 @@
 {
   "/api/": "/",
   "/starwars/:name": "/starwars?name=:name"
+  "/coffees/:name": "/coffees?name=:name"
 }
