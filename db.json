@@ -1,44 +1,131 @@
 {
-    "starwars": [
-        {
-            "id": 1,
-            "name": "Yoda",
-            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/yoda.png"
-        },
-        {
-            "id": 2,
-            "name": "Luke",
-            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/luke.png"
-        },
-        {
-            "id": 3,
-            "name": "Leia",
-            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/leia.png"
-        },
-        {
-            "id": 4,
-            "name": "Darth Vader",
-            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/vader.png"
-        },
-        {
-            "id": 5,
-            "name": "Han Solo",
-            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/hansolo.png"
-        },
-        {
-            "id": 6,
-            "name": "R2D2",
-            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/r2d2.png"
-        },
-        {
-            "id": 7,
-            "name": "C3pO",
-            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/c3po.png"
-        },
-        {
-            "id": 8,
-            "name": "Chewbacca",
-            "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/chewbacca.png"
-        }
-    ]
+  "coffees": [
+    {
+      "id": 1,
+      "tags": [
+        "tradicional"
+      ],
+      "name": "Expresso Tradicional",
+      "description": "O tradicional café feito com água quente e grãos moídos",
+      "photo": "tradicional.png",
+      "price": 9.9
+    },
+    {
+      "id": 2,
+      "tags": [
+        "tradicional"
+      ],
+      "name": "Expresso Americano",
+      "description": "Expresso diluído, menos intenso que o tradicional",
+      "photo": "americano.png",
+      "price": 14.9
+    },
+    {
+      "id": 3,
+      "tags": [
+        "tradicional"
+      ],
+      "name": "Expresso Cremoso",
+      "description": "Café expresso tradicional com espuma cremosa",
+      "photo": "cremoso.png",
+      "price": 9.9
+    },
+    {
+      "id": 4,
+      "tags": [
+        "tradicional",
+        "gelado"
+      ],
+      "name": "Expresso Gelado",
+      "description": "Bebida preparada com café expresso e cubos de gelo",
+      "photo": "gelado.png",
+      "price": 12.9
+    },
+    {
+      "id": 5,
+      "tags": [
+        "tradicional",
+        "com leite"
+      ],
+      "name": "Café com Leite",
+      "description": "Meio a meio de expresso tradicional com leite vaporizado",
+      "photo": "leite.png",
+      "price": 9.9
+    },
+    {
+      "id": 6,
+      "tags": [
+        "tradicional",
+        "com leite"
+      ],
+      "name": "Latte",
+      "description": "Uma dose de café expresso com o dobro de leite e espuma cremosa",
+      "photo": "latte.png",
+      "price": 10.9
+    },
+    {
+      "id": 7,
+      "tags": [
+        "tradicional",
+        "com leite"
+      ],
+      "name": "Capuccino",
+      "description": "Bebida com canela feita de doses iguais de café, leite e espuma",
+      "photo": "capuccino.png",
+      "price": 18.9
+    },
+    {
+      "id": 8,
+      "tags": [
+        "tradicional",
+        "com leite"
+      ],
+      "name": "Macchiato",
+      "description": "Café expresso misturado com um pouco de leite quente e espuma",
+      "photo": "macchiato.png",
+      "price": 18.9
+    }
+  ],
+  "starwars": [
+    {
+      "id": 1,
+      "name": "Yoda",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/yoda.png"
+    },
+    {
+      "id": 2,
+      "name": "Luke",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/luke.png"
+    },
+    {
+      "id": 3,
+      "name": "Leia",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/leia.png"
+    },
+    {
+      "id": 4,
+      "name": "Darth Vader",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/vader.png"
+    },
+    {
+      "id": 5,
+      "name": "Han Solo",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/hansolo.png"
+    },
+    {
+      "id": 6,
+      "name": "R2D2",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/r2d2.png"
+    },
+    {
+      "id": 7,
+      "name": "C3pO",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/c3po.png"
+    },
+    {
+      "id": 8,
+      "name": "Chewbacca",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/chewbacca.png"
+    }
+  ]
 }
