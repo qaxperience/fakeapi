@@ -47,7 +47,7 @@
     {
       "id": 5,
       "tags": [
-        "Com leite"
+        "Late"
       ],
       "name": "Café com Leite",
       "description": "Meio a meio de expresso tradicional com leite vaporizado",
@@ -58,7 +58,7 @@
     {
       "id": 6,
       "tags": [
-        "Com leite"
+        "Late"
       ],
       "name": "Latte",
       "description": "Uma dose de café expresso com o dobro de leite e espuma cremosa",
@@ -69,7 +69,7 @@
     {
       "id": 7,
       "tags": [
-        "Com leite"
+        "Late"
       ],
       "name": "Capuccino",
       "description": "Bebida com canela feita de doses iguais de café, leite e espuma",
@@ -80,7 +80,7 @@
     {
       "id": 8,
       "tags": [
-        "Com leite"
+        "Late"
       ],
       "name": "Macchiato",
       "description": "Café expresso misturado com um pouco de leite quente e espuma",
