@@ -134,12 +134,12 @@
   "songs": [
     {
       "id": 1,
-      "title": "Back in Test",
-      "artist": "AB/DB (Antes do Bug, depois do Bug)",
-      "description": "AB/DB",
-      "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/abdb.jpg",
+      "title": "Bughium",
+      "artist": "Nullvana",
+      "description": "Nullvana",
+      "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/nevertesting.jpg",
       "type": "album",
-      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/songs/classic.mp3"
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/songs/grunge.mp3"
     },
     {
       "id": 2,
