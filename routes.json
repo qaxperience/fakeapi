@@ -2,5 +2,5 @@
   "/api/*": "/$1",
   "/starwars/:name": "/starwars?name=:name",
   "/coffees/:name": "/coffees?name=:name",
-  "/songs/:title": "/songs?title=:title"
+  "/songs/:title": "/songs?title=$title"
 }
