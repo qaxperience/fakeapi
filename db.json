@@ -139,7 +139,7 @@
       "description": "AB/DB",
       "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/abdb.jpg",
       "type": "album",
-      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/classic.mp3"
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/songs/classic.mp3"
     },
     {
       "id": 2,
@@ -148,7 +148,7 @@
       "description": "BugDay",
       "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/bugday.jpg",
       "type": "album",
-      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/punk.mp3"
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/songs/punk.mp3"
     },
     {
       "id": 3,
@@ -157,7 +157,7 @@
       "description": "Elvis Testley",
       "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/elvis.jpg",
       "type": "album",
-      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/guitarboogie.mp3"
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/songs/guitarboogie.mp3"
     },
     {
       "id": 4,
@@ -166,7 +166,7 @@
       "description": "Jira 182",
       "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/jira182.jpg",
       "type": "album",
-      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/rebels.mp3"
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/songs/rebels.mp3"
     },
     {
       "id": 5,
@@ -175,7 +175,7 @@
       "description": "The Offsprint",
       "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/offsprint.jpg",
       "type": "album",
-      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/punkrock.mp3"
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/songs/punkrock.mp3"
     },
     {
       "id": 6,
@@ -184,7 +184,7 @@
       "description": "Megatest",
       "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/megatest.jpg",
       "type": "album",
-      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/afight.mp3"
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/songs/afight.mp3"
     }
   ]
 }
