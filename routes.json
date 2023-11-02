@@ -1,5 +1,6 @@
 {
   "/api/": "/",
-  "/starwars/:name": "/starwars?name=:name"
-  "/coffees/:name": "/coffees?name=:name"
+  "/starwars/:name": "/starwars?name=:name",
+  "/coffees/:name": "/coffees?name=:name",
+  "/songs/:title": "/songs?title=:title"
 }

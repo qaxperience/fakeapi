@@ -89,46 +89,102 @@
       "available": true
     }
   ],
-"starwars": [
-  {
-    "id": 1,
-    "name": "Yoda",
-    "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/yoda.png"
-  },
-  {
-    "id": 2,
-    "name": "Luke",
-    "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/luke.png"
-  },
-  {
-    "id": 3,
-    "name": "Leia",
-    "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/leia.png"
-  },
-  {
-    "id": 4,
-    "name": "Darth Vader",
-    "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/vader.png"
-  },
-  {
-    "id": 5,
-    "name": "Han Solo",
-    "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/hansolo.png"
-  },
-  {
-    "id": 6,
-    "name": "R2D2",
-    "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/r2d2.png"
-  },
-  {
-    "id": 7,
-    "name": "C3pO",
-    "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/c3po.png"
-  },
-  {
-    "id": 8,
-    "name": "Chewbacca",
-    "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/chewbacca.png"
-  }
-]
+  "starwars": [
+    {
+      "id": 1,
+      "name": "Yoda",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/yoda.png"
+    },
+    {
+      "id": 2,
+      "name": "Luke",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/luke.png"
+    },
+    {
+      "id": 3,
+      "name": "Leia",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/leia.png"
+    },
+    {
+      "id": 4,
+      "name": "Darth Vader",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/vader.png"
+    },
+    {
+      "id": 5,
+      "name": "Han Solo",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/hansolo.png"
+    },
+    {
+      "id": 6,
+      "name": "R2D2",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/r2d2.png"
+    },
+    {
+      "id": 7,
+      "name": "C3pO",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/c3po.png"
+    },
+    {
+      "id": 8,
+      "name": "Chewbacca",
+      "avatar": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/starwars/chewbacca.png"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Back in Test",
+      "artist": "AB/DB (Antes do Bug, depois do Bug)",
+      "description": "AB/DB",
+      "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/abdb.jpg",
+      "type": "album",
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/classic.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Nice Bugs Finish Devs",
+      "artist": "BugDay",
+      "description": "BugDay",
+      "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/bugday.jpg",
+      "type": "album",
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/punk.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Bug Suede Shoes",
+      "artist": "Elvis Testley",
+      "description": "Elvis Testley",
+      "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/elvis.jpg",
+      "type": "album",
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/guitarboogie.mp3"
+    },
+    {
+      "id": 4,
+      "title": "All The Small Sprints",
+      "artist": "Jira 182",
+      "description": "Jira 182",
+      "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/jira182.jpg",
+      "type": "album",
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/rebels.mp3"
+    },
+    {
+      "id": 5,
+      "title": "The Devs Aren't Alright",
+      "artist": "The Offsprint",
+      "description": "The Offsprint",
+      "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/offsprint.jpg",
+      "type": "album",
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/punkrock.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Symphony of Production",
+      "artist": "Megatest",
+      "description": "Megatest",
+      "image": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/megatest.jpg",
+      "type": "album",
+      "src": "https://raw.githubusercontent.com/qaxperience/fakeapi/main/covers/afight.mp3"
+    }
+  ]
 }
