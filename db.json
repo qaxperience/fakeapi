@@ -41,7 +41,7 @@
       "name": "Expresso Gelado",
       "description": "Bebida preparada com café expresso e cubos de gelo",
       "photo": "gelado.png",
-      "price": 9.99,
+      "price": 9.999,
       "available": true
     },
     {
@@ -52,7 +52,7 @@
       "name": "Café com Leite",
       "description": "Meio a meio de expresso tradicional com leite vaporizado",
       "photo": "leite.png",
-      "price": 19.99,
+      "price": 19.999,
       "available": true
     },
     {
